@@ -11,4 +11,4 @@ print('first p = 3 and q = 8, now p = ', p, 'and q = ', q)
 
 print('this method is called muliple assingments')
 p, q = q, p
-print('first p = 8 and q = 3, now p = ', p, 'and q = ', q)
+print('first p = 8 and q1 = 3, now p = ', p, 'and q = ', q)
