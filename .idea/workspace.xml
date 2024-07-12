@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="868b2282-062e-483f-8cc2-be6721282bd6" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/profit_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,22 +46,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.area_of_rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ascii_values.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first_program.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hypotenuse_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inbuilt_functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.number_formatting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.swapping.executor&quot;: &quot;Run&quot;,
-    &quot;Python.use_of_eval.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.area_of_rectangle.executor": "Run",
+    "Python.ascii_values.executor": "Run",
+    "Python.first_program.executor": "Run",
+    "Python.hypotenuse_calculator.executor": "Run",
+    "Python.inbuilt_functions.executor": "Run",
+    "Python.number_formatting.executor": "Run",
+    "Python.operators.executor": "Run",
+    "Python.profit_calculator.executor": "Run",
+    "Python.swapping.executor": "Run",
+    "Python.use_of_eval.executor": "Run",
+    "Python.variables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -122,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720736528790</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <option name="closed" value="true" />
+      <created>1720736779460</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720736779460</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
