@@ -1,4 +1,5 @@
-#to find the ascii values ord() and chr() functions are used
+#to find the ascii values ord() and chr() functions are used and is generally used to find the characters ascii
+#there will be a upcoming mini project related to ascii after we learn some more stuff
 print(ord('A'))
 print(ord('a'))
 print(ord('B'))
