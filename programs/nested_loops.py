@@ -1,0 +1,1 @@
+#in this programs we will use nested loops to make patterns
