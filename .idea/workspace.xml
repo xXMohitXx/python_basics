@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="868b2282-062e-483f-8cc2-be6721282bd6" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/programs/try_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/fruitful_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programs/recursive_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11-07-2024_23_28_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11-07-2024_23_28__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +62,8 @@
     "Python.days_in_month.executor": "Run",
     "Python.first_program.executor": "Run",
     "Python.for_loop.executor": "Run",
+    "Python.fruitful_functions.executor": "Run",
+    "Python.functions.executor": "Run",
     "Python.greater_from_three.executor": "Run",
     "Python.hypotenuse_calculator.executor": "Run",
     "Python.if_else.executor": "Run",
@@ -69,6 +75,7 @@
     "Python.prime_number.executor": "Run",
     "Python.profit_calculator.executor": "Run",
     "Python.range_func_loop.executor": "Run",
+    "Python.recursive_functions.executor": "Run",
     "Python.swapping.executor": "Run",
     "Python.try_game.executor": "Run",
     "Python.usage_of_exponent_operator.executor": "Run",
@@ -192,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721252189184</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit">
+      <option name="closed" value="true" />
+      <created>1721313118275</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721313118275</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
