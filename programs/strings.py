@@ -69,3 +69,11 @@ S2 = "abcd".upper()
 print(S1 > S2) #FALSE
 print(S1 >= S2) #true
 
+#the .format() method
+print("my name is {0} and im from {1}".format("Mohit","Kutch"))
+
+#the split() method
+#it will make list
+Str = "Python Javascript PHP JAVA C"
+print(Str.split())
+#there are many string operations such as capitalize isupper islower upper lower title swapcase strip count rfind find endswith startswith isspace isdigit isalnum isalpha that you can try it ou
